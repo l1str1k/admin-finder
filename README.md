@@ -1,2 +1,5 @@
+------------------------------------
 # admin-finder
-Find admin login using this tools
+Mencari admin login page dengan tools ini
+recoded by KID2ZON3
+------------------------------------
